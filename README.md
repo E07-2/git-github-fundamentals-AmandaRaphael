@@ -113,5 +113,10 @@ Read more about forking [here](https://docs.github.com/en/github/creating-clonin
 * [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
 * [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 * [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
+* [Education  community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+
+
+ - [x] Open a pull request and let your teacher know that you’ve finished this course.
